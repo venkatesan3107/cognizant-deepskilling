@@ -1,5 +1,3 @@
-package creational.singleton;
-
 public enum LogLevel {
     TRACE(1),
     DEBUG(2),
